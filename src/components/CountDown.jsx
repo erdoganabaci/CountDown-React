@@ -76,7 +76,7 @@ const CountDown = () => {
   return (
     <div>
       <Typography variant="h3" gutterBottom>
-        Vibely CountDown
+        Simple CountDown
       </Typography>
       {minutes === 0 && seconds === 0 ? (
         <div>
